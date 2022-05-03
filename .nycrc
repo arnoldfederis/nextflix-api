@@ -1,0 +1,15 @@
+{
+  "include": [
+    "dist"
+  ],
+  "exclude": ["dist/__test__"],
+  "extension": [
+    ".js",
+    ".ts"
+  ],
+  "reporter": [
+    "text",
+    "html"
+  ],
+  "exclude-after-remap": false
+}

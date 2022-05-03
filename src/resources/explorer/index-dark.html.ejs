@@ -1,0 +1,261 @@
+<!-- HTML for static distribution bundle build -->
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>LoopBack API Explorer</title>
+  <link rel="stylesheet" type="text/css" href="<%- swaggerThemeFile %>">
+  <link rel="icon" type="image/png" href="./favicon-32x32.png" sizes="32x32" />
+  <link rel="icon" type="image/png" href="./favicon-16x16.png" sizes="16x16" />
+  <style>
+    html {
+      box-sizing: border-box;
+      overflow: -moz-scrollbars-vertical;
+      overflow-y: scroll;
+    }
+
+    *,
+    *:before,
+    *:after {
+      box-sizing: inherit;
+    }
+
+    body {
+      margin: 0;
+    }
+
+    .opblock-summary-method {
+      color: black !important;
+    }
+
+    input {
+      max-width: 100% !important;
+    }
+
+    body,
+    .opblock-section-header,
+    .scheme-container {
+      background-color: black !important;
+    }
+
+    .parameter__name.required:after {
+      color: rgba(255, 0, 0, .6) !important;
+    }
+
+    input,
+    select,
+    input:focus,
+    select:focus {
+      background-color: #414141 !important;
+      border-color: #212121 !important;
+      outline: none !important;
+    }
+
+    .opblock-summary-path {
+      max-width: 100% !important;
+    }
+
+    p,
+    input,
+    select,
+    .title,
+    .servers-title,
+    .opblock-tag,
+    .opblock-summary-path,
+    .opblock-title,
+    .opblock-description-wrapper,
+    .try-out__btn,
+    .col_header,
+    .parameter__name,
+    .parameter__type,
+    .opblock-section-header h4,
+    .response-col_status,
+    .response-col_links,
+    .tabitem,
+    .opblock-summary-path__deprecated,
+    .opblock-title_normal,
+    .response-control-media-type__title,
+    .responses-inner h4,
+    .response-col_description .response-col_description .response-col_description ul,
+    .btn-clear,
+    .loading::after,
+    .body-param__text,
+    .models-control,
+    .model-title,
+    .model .model-title .model-title__text,
+    .models-control span,
+    .block-desktop h3,
+    .modal-ux-header h3,
+    .auth-container h4,
+    .wrapper label,
+    .btn-done {
+      color: #999999 !important;
+      font-weight: bold !important;
+    }
+
+    .close-modal svg {
+      fill: #fff !important;
+    }
+
+    .wrapper input {
+      width: 100% !important;
+    }
+
+    .modal-ux {
+      background-color: #212121 !important;
+      border: 0 !important;
+    }
+
+    .modal-ux-header {
+      border-bottom-color: #414141 !important;
+    }
+
+    .btn-done {
+      margin-right: 0 !important;
+    }
+
+    .auth-btn-wrapper {
+      justify-content: right !important;
+    }
+
+    .authorization__btn.unlocked svg, .authorization__btn.locked svg {
+      fill: #919191 !important;
+    }
+
+    .swagger-ui {
+      color: #999999 !important;
+    }
+
+    .arrow {
+      fill: whitesmoke;
+    }
+
+    .auth-btn-wrapper .auth:first-child {
+      color: #919191 !important;
+      margin-right: 10px !important;
+    }
+
+    .opblock {
+      border: 0 !important;
+      background-color: #212121 !important;
+      border-radius: 10px !important;
+      box-shadow: 0 .5rem 1rem rgba(0, 0, 0, .15) !important;
+    }
+
+    .opblock-body,
+    .opblock-section-header {
+      background-color: #212121 !important;
+    }
+
+    .opblock-body {
+      border-bottom-right-radius: 10px !important;
+      border-bottom-left-radius: 10px !important;
+    }
+
+    .opblock-summary {
+      border-color: transparent !important;
+    }
+
+    .opblock-summary-control {
+      outline: none !important;
+    }
+
+    td {
+      vertical-align: middle !important;
+    }
+
+    .models {
+      background-color: #212121 !important;
+      color: #999999 !important;
+      border-radius: 10px !important;
+    }
+
+    .models-control,
+    .model-box-control {
+      outline: none !important;
+    }
+
+    .models-control svg {
+      fill: whitesmoke !important;
+    }
+
+    section.models h4:hover {
+      background-color: transparent !important;
+    }
+
+    .model-container,
+    .model-example .model-box,
+    .body-param__text {
+      background-color: rgb(51, 51, 51) !important;
+    }
+
+    .body-param__text:focus {
+      box-shadow: 0 0.5rem 1rem rgb(0 0 0 / 15%) !important;
+      border: 0 !important;
+    }
+
+    .model-example .model-box {
+      width: 100% !important;
+    }
+
+    .brace-open,
+    .brace-close,
+    .description,
+    .model .renderedMarkdown p,
+    .model span,
+    .property-row td {
+      color: whitesmoke !important;
+    }
+
+    .model .prop .prop-type {
+      color: rgb(162, 252, 162) !important;
+    }
+
+    .model-toggle::after {
+      content: none !important;
+    }
+
+    .model {
+      margin-top: 5px !important;
+    }
+
+    pre,
+    .model {
+      font-size: 14px !important;
+    }
+  </style>
+</head>
+
+<body>
+  <div id="swagger-ui"></div>
+
+  <script src="./swagger-ui-bundle.js"> </script>
+  <script src="./swagger-ui-standalone-preset.js"> </script>
+  <script>
+    window.onload = function () {
+      // Build a system
+      const ui = SwaggerUIBundle({
+        url: '<%- openApiSpecUrl %>',
+        dom_id: '#swagger-ui',
+        deepLinking: true,
+        filter: true,
+        defaultModelsExpandDepth: 0,
+        defaultModelExpandDepth: 0,
+        presets: [
+          SwaggerUIBundle.presets.apis,
+          // SwaggerUIStandalonePreset
+          SwaggerUIStandalonePreset.slice(1) // Disable the top bar
+        ],
+        plugins: [
+          SwaggerUIBundle.plugins.DownloadUrl
+        ],
+        layout: 'StandaloneLayout'
+      })
+      window.ui = ui
+    }
+  </script>
+</body>
+
+</html>
