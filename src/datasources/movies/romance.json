@@ -1,0 +1,391 @@
+[
+  {
+    "adult": false,
+    "backdrop_path": "/zBG5Mg29NH9xxpWMMG7BIvKwYhL.jpg",
+    "genre_ids": [
+      10749,
+      18
+    ],
+    "original_id": 829557,
+    "original_language": "pl",
+    "original_title": "365 Days: This Day",
+    "overview": "Laura and Massimo are back and hotter than ever. But the reunited couple's new beginning is complicated by Massimo’s family ties and a mysterious man who enters Laura’s life to win her heart and trust, at any cost.",
+    "popularity": 4922.217,
+    "poster_path": "/3UPXQtdWLdOkU6zHNP3gIZ2M4K4.jpg",
+    "release_date": "2022-04-27",
+    "title": "365 Days: This Day",
+    "video": false,
+    "vote_average": 6.1,
+    "vote_count": 242
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/i9rEpTqC6aIQOWOc4PDEEAE3hFe.jpg",
+    "genre_ids": [
+      10749,
+      878,
+      18
+    ],
+    "original_id": 818750,
+    "original_language": "en",
+    "original_title": "The In Between",
+    "overview": "After surviving a car accident that took the life of her boyfriend, a teenage girl believes he's attempting to reconnect with her from the after world.",
+    "popularity": 844.068,
+    "poster_path": "/7RcyjraM1cB1Uxy2W9ZWrab4KCw.jpg",
+    "release_date": "2022-02-11",
+    "title": "The In Between",
+    "video": false,
+    "vote_average": 7,
+    "vote_count": 236
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/hw7foD5in5YCs7qY3Pap9pdc1Vc.jpg",
+    "genre_ids": [
+      28,
+      12,
+      35,
+      10749
+    ],
+    "original_id": 752623,
+    "original_language": "en",
+    "original_title": "The Lost City",
+    "overview": "Follows a reclusive romance novelist who was sure nothing could be worse than getting stuck on a book tour with her cover model, until a kidnapping attempt sweeps them both into a cutthroat jungle adventure, proving life can be so much stranger, and more romantic, than any of her paperback fictions.",
+    "popularity": 445.287,
+    "poster_path": "/neMZH82Stu91d3iqvLdNQfqPPyl.jpg",
+    "release_date": "2022-03-24",
+    "title": "The Lost City",
+    "video": false,
+    "vote_average": 7,
+    "vote_count": 236
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/4rsomWxlqnHt3muGYK06auhOib6.jpg",
+    "genre_ids": [
+      10749,
+      18
+    ],
+    "original_id": 818647,
+    "original_language": "es",
+    "original_title": "A través de mi ventana",
+    "overview": "Raquel's longtime crush on her next-door neighbor turns into something more when he starts developing feelings for her, despite his family's objections.",
+    "popularity": 444.427,
+    "poster_path": "/6gg7fvKc1ZxP9yCczweSxIGYp4S.jpg",
+    "release_date": "2022-02-04",
+    "title": "Through My Window",
+    "video": false,
+    "vote_average": 7.6,
+    "vote_count": 1738
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/sqLNgWTMBhLBRY26SwwfWcSI5qq.jpg",
+    "genre_ids": [
+      35,
+      10749
+    ],
+    "original_id": 803104,
+    "original_language": "en",
+    "original_title": "Sex Appeal",
+    "overview": "Avery, a teenager with a tendency towards perfectionism, enlists her friend Larson to help her prepare for her first time with her long-distance boyfriend.",
+    "popularity": 381.196,
+    "poster_path": "/mpwXOeSSQdBjUpyQqf6YHYbSTFO.jpg",
+    "release_date": "2022-01-14",
+    "title": "Sex Appeal",
+    "video": false,
+    "vote_average": 6.6,
+    "vote_count": 75
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/koaxq5QbARIlfxCOR89atPHv367.jpg",
+    "genre_ids": [
+      10749,
+      35,
+      10402
+    ],
+    "original_id": 615904,
+    "original_language": "en",
+    "original_title": "Marry Me",
+    "overview": "Music superstars Kat Valdez and Bastian are getting married before a global audience of fans. But when Kat learns, seconds before her vows, that Bastian has been unfaithful, she decides to marry Charlie, a stranger in the crowd, instead.",
+    "popularity": 344.035,
+    "poster_path": "/ko1JVbGj4bT8IhCWqjBQ6ZtF2t.jpg",
+    "release_date": "2022-02-09",
+    "title": "Marry Me",
+    "video": false,
+    "vote_average": 6.9,
+    "vote_count": 342
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/1LtfyK3nXVIlXaDeRwhlSWZvuGC.jpg",
+    "genre_ids": [
+      10749,
+      35
+    ],
+    "original_id": 790525,
+    "original_language": "it",
+    "original_title": "Sempre più bello",
+    "overview": "Marta may be an orphan, and she may be affected by a lethal illness, yet she is the most positive person one can meet. She wants a boy to fall for her. Not any boy - the most handsome of them all. One day, she may have found her match.",
+    "popularity": 343.726,
+    "poster_path": "/1zhsT17wTXAw5IxK9rSLtftu7Aw.jpg",
+    "release_date": "2022-01-31",
+    "title": "Forever Out of My League",
+    "video": false,
+    "vote_average": 5.6,
+    "vote_count": 55
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/8WpRRiz3qQqzBiifCTm1dW0b6bs.jpg",
+    "genre_ids": [
+      10749,
+      18
+    ],
+    "original_id": 785521,
+    "original_language": "no",
+    "original_title": "Battle: Freestyle",
+    "overview": "Amalie and Mikael lead their street dance team to the finals in France but tough competition and personal distractions threaten to ruin their dreams.",
+    "popularity": 333.723,
+    "poster_path": "/6D6QumiHEhnpZG12Ibjy2BxA6n4.jpg",
+    "release_date": "2022-04-01",
+    "title": "Battle: Freestyle",
+    "video": false,
+    "vote_average": 5.1,
+    "vote_count": 28
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/lV3UFPPxDIPelh46G9oySXN9Mcz.jpg",
+    "genre_ids": [
+      10749,
+      18
+    ],
+    "original_id": 744275,
+    "original_language": "en",
+    "original_title": "After We Fell",
+    "overview": "Just as Tessa's life begins to become unglued, nothing is what she thought it would be. Not her friends nor her family. The only person that she should be able to rely on is Hardin, who is furious when he discovers the massive secret that she's been keeping. Before Tessa makes the biggest decision of her life, everything changes because of revelations about her family.",
+    "popularity": 354.766,
+    "poster_path": "/dU4HfnTEJDf9KvxGS9hgO7BVeju.jpg",
+    "release_date": "2021-09-01",
+    "title": "After We Fell",
+    "video": false,
+    "vote_average": 7.1,
+    "vote_count": 1675
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/o2OSpKzXuB1edCDyVC2MXAxXwyJ.jpg",
+    "genre_ids": [
+      10749,
+      27,
+      53
+    ],
+    "original_id": 633802,
+    "original_language": "ru",
+    "original_title": "Приворот. Чёрное венчание",
+    "overview": "Terror strikes when a heartbroken woman uses black magic to get her husband back.",
+    "popularity": 306.866,
+    "poster_path": "/2AbGdSGlU6CpiV3lswHUgE5CdAA.jpg",
+    "release_date": "2021-02-11",
+    "title": "Dark Spell",
+    "video": false,
+    "vote_average": 6.7,
+    "vote_count": 93
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/pIlIXdRiMzWMnjcPMyV5IBEvMwC.jpg",
+    "genre_ids": [
+      35,
+      10749
+    ],
+    "original_id": 944664,
+    "original_language": "es",
+    "original_title": "Hasta que nos volvamos a encontrar",
+    "overview": "The opposite lives of a workaholic architect and a fiery artist are upended when their chance encounter in breathtaking Peru shifts their views on life.",
+    "popularity": 285.317,
+    "poster_path": "/11SOeFmUEHahuyMOxxT1wdJ3iJs.jpg",
+    "release_date": "2022-03-18",
+    "title": "Without Saying Goodbye",
+    "video": false,
+    "vote_average": 6.8,
+    "vote_count": 58
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/AfWtIzrdB0HMQ0Swequza4Jo1Kh.jpg",
+    "genre_ids": [
+      35,
+      10749,
+      878
+    ],
+    "original_id": 928769,
+    "original_language": "th",
+    "original_title": "เอไอหัวใจโอเวอร์โหลด",
+    "overview": "A modern love story set in the near future where an AI building is powered by human feelings. Due to a software glitch, it falls in love with a real girl, escapes the building into the body of a real man, and tries to win her affections.",
+    "popularity": 252.599,
+    "poster_path": "/sBiJOvHCSWORnFpc4yItflIkdTi.jpg",
+    "release_date": "2022-02-15",
+    "title": "AI Love You",
+    "video": false,
+    "vote_average": 5.5,
+    "vote_count": 24
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/wjZfFhrbRn7UqQnJkzT7MxVSXYn.jpg",
+    "genre_ids": [
+      35,
+      10749,
+      878
+    ],
+    "original_id": 767825,
+    "original_language": "en",
+    "original_title": "Moonshot",
+    "overview": "In a future where Mars is terraformed and colonized by the best humanity has to offer, two very different college students wind up joining forces and sneak onboard a space shuttle to the red planet in order to be united with their significant others.",
+    "popularity": 280.117,
+    "poster_path": "/thqgzBPEDYQX0taszVus5nYMtTZ.jpg",
+    "release_date": "2022-05-05",
+    "title": "Moonshot",
+    "video": false,
+    "vote_average": 9,
+    "vote_count": 5
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/l8ubUlfzlB5R2j9cJ3CN7tj0gmd.jpg",
+    "genre_ids": [
+      28,
+      10749,
+      16
+    ],
+    "original_id": 317442,
+    "original_language": "ja",
+    "original_title": "The Last: Naruto the Movie",
+    "overview": "Two years after the events of the Fourth Great Ninja War, the moon that Hagoromo Otsutsuki created long ago to seal away the Gedo Statue begins to descend towards the world, threatening to become a meteor that would destroy everything on impact. Amidst this crisis, a direct descendant of Kaguya Otsutsuki named Toneri Otsutsuki attempts to kidnap Hinata Hyuga but ends up abducting her younger sister Hanabi. Naruto and his allies now mount a rescue mission before finding themselves embroiled in a final battle to decide the fate of everything.",
+    "popularity": 261.574,
+    "poster_path": "/bAQ8O5Uw6FedtlCbJTutenzPVKd.jpg",
+    "release_date": "2014-12-06",
+    "title": "The Last: Naruto the Movie",
+    "video": false,
+    "vote_average": 7.8,
+    "vote_count": 1173
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/exnFsbb9c3fDutTsgtJSWcDmZm0.jpg",
+    "genre_ids": [
+      18,
+      10749,
+      80
+    ],
+    "original_id": 511809,
+    "original_language": "en",
+    "original_title": "West Side Story",
+    "overview": "Two youngsters from rival New York City gangs fall in love, but tensions between their respective friends build toward tragedy.",
+    "popularity": 261.162,
+    "poster_path": "/yfz3IUoYYSY32tkb97HlUBGFsnh.jpg",
+    "release_date": "2021-12-08",
+    "title": "West Side Story",
+    "video": false,
+    "vote_average": 7.2,
+    "vote_count": 855
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/isBjNHBblzxrzHrAtRbjgkYzAut.jpg",
+    "genre_ids": [
+      10749,
+      18
+    ],
+    "original_id": 664413,
+    "original_language": "pl",
+    "original_title": "365 dni",
+    "overview": "A woman falls victim to a dominant mafia boss, who imprisons her and gives her one year to fall in love with him.",
+    "popularity": 217.863,
+    "poster_path": "/6KwrHucIE3CvNT7kTm2MAlZ4fYF.jpg",
+    "release_date": "2020-02-07",
+    "title": "365 Days",
+    "video": false,
+    "vote_average": 7,
+    "vote_count": 6762
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/esGtYJE3uoRuwA7o4ST2kGDhmeO.jpg",
+    "genre_ids": [
+      10749,
+      18
+    ],
+    "original_id": 763148,
+    "original_language": "en",
+    "original_title": "Time Is Up",
+    "overview": "Vivien, an accomplished student with a passion for physics, and Roy, a troubled young man, are involved in an accident that forces them to reclaim their lives one minute at the time.",
+    "popularity": 212,
+    "poster_path": "/dxWHyMY4HoXH8LiEhYlga2OtK5B.jpg",
+    "release_date": "2021-09-09",
+    "title": "Time Is Up",
+    "video": false,
+    "vote_average": 6.4,
+    "vote_count": 295
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/sS4MadD7pKMt251vKxdJo2YrkYP.jpg",
+    "genre_ids": [
+      10749
+    ],
+    "original_id": 744276,
+    "original_language": "en",
+    "original_title": "After Ever Happy",
+    "overview": "The fourth installment in The After Universe. As a shocking truth about a couple's families emerges, the two lovers discover they are not so different from each other. Tessa is no longer the sweet, simple, good girl she was when she met Hardin — any more than he is the cruel, moody boy she fell so hard for.",
+    "popularity": 231.626,
+    "poster_path": "/vWLyXOFm1C3gnS8ksfqi7gwkijn.jpg",
+    "release_date": "2022-08-25",
+    "title": "After Ever Happy",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/6hgItrYQEG33y0I7yP2SRl2ei4w.jpg",
+    "genre_ids": [
+      10749,
+      18
+    ],
+    "original_id": 613504,
+    "original_language": "en",
+    "original_title": "After We Collided",
+    "overview": "Tessa finds herself struggling with her complicated relationship with Hardin; she faces a dilemma that could change their lives forever.",
+    "popularity": 228.824,
+    "poster_path": "/kiX7UYfOpYrMFSAGbI6j1pFkLzQ.jpg",
+    "release_date": "2020-09-02",
+    "title": "After We Collided",
+    "video": false,
+    "vote_average": 7.3,
+    "vote_count": 4549
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/j8ve0iuDEnrcSpUxL62uvI4wnwB.jpg",
+    "genre_ids": [
+      35,
+      10751,
+      10749
+    ],
+    "original_id": 937337,
+    "original_language": "es",
+    "original_title": "¡Qué despadre!",
+    "overview": "Pedro is a single man in his forties who likes to party, has no children and lives at night. Everything changes when he meets Alin. She mentions to him that she is looking for her dad and that there is a high probability that it is him.",
+    "popularity": 314.187,
+    "poster_path": "/IkdBm3dDA11pNFlbkLcU5WdESn.jpg",
+    "release_date": "2022-02-09",
+    "title": "¡Qué despadre!",
+    "video": false,
+    "vote_average": 6.3,
+    "vote_count": 6
+  }
+]

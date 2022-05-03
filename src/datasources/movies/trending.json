@@ -1,0 +1,425 @@
+[
+  {
+    "overview": "In his second year of fighting crime, Batman uncovers corruption in Gotham City that connects to his own family while facing a serial killer known as the Riddler.",
+    "release_date": "2022-03-01",
+    "adult": false,
+    "backdrop_path": "/tRS6jvPM9qPrrnx2KRp3ew96Yot.jpg",
+    "genre_ids": [
+      80,
+      9648,
+      53
+    ],
+    "vote_count": 4161,
+    "original_language": "en",
+    "original_title": "The Batman",
+    "poster_path": "/74xTEgt7R36Fpooo50r9T25onhq.jpg",
+    "vote_average": 7.8,
+    "video": false,
+    "original_id": 414906,
+    "title": "The Batman",
+    "popularity": 8195.597,
+    "media_type": "movie"
+  },
+  {
+    "genre_ids": [
+      28,
+      12,
+      10751
+    ],
+    "original_language": "en",
+    "original_title": "Uncharted",
+    "poster_path": "/tlZpSxYuBRoVJBOpUrPdQe9FmFq.jpg",
+    "video": false,
+    "vote_average": 7.2,
+    "vote_count": 1563,
+    "overview": "A young street-smart, Nathan Drake and his wisecracking partner Victor “Sully” Sullivan embark on a dangerous pursuit of “the greatest treasure never found” while also tracking clues that may lead to Nathan’s long-lost brother.",
+    "release_date": "2022-02-10",
+    "title": "Uncharted",
+    "original_id": 335787,
+    "adult": false,
+    "backdrop_path": "/aEGiJJP91HsKVTEPy1HhmN0wRLm.jpg",
+    "popularity": 9026.362,
+    "media_type": "movie"
+  },
+  {
+    "poster_path": "/3UPXQtdWLdOkU6zHNP3gIZ2M4K4.jpg",
+    "video": false,
+    "vote_average": 6.1,
+    "overview": "Laura and Massimo are back and hotter than ever. But the reunited couple's new beginning is complicated by Massimo’s family ties and a mysterious man who enters Laura’s life to win her heart and trust, at any cost.",
+    "release_date": "2022-04-27",
+    "vote_count": 242,
+    "adult": false,
+    "backdrop_path": "/zBG5Mg29NH9xxpWMMG7BIvKwYhL.jpg",
+    "title": "365 Days: This Day",
+    "genre_ids": [
+      10749,
+      18
+    ],
+    "original_id": 829557,
+    "original_language": "pl",
+    "original_title": "365 Days: This Day",
+    "popularity": 4922.217,
+    "media_type": "movie"
+  },
+  {
+    "original_id": 634649,
+    "original_title": "Spider-Man: No Way Home",
+    "poster_path": "/1g0dhYtq4irTY1GPXvft6k4YLjm.jpg",
+    "video": false,
+    "title": "Spider-Man: No Way Home",
+    "overview": "Peter Parker is unmasked and no longer able to separate his normal life from the high-stakes of being a super-hero. When he asks for help from Doctor Strange the stakes become even more dangerous, forcing him to discover what it truly means to be Spider-Man.",
+    "release_date": "2021-12-15",
+    "vote_count": 12294,
+    "adult": false,
+    "backdrop_path": "/iQFcwSGbZXMkeyKrxbPnwnRo5fl.jpg",
+    "vote_average": 8.1,
+    "genre_ids": [
+      28,
+      12,
+      878
+    ],
+    "original_language": "en",
+    "popularity": 4716.995,
+    "media_type": "movie"
+  },
+  {
+    "backdrop_path": "/1uegR4uAxRxiMyX4nQnpzbXhrTw.jpg",
+    "genre_ids": [
+      10759,
+      10765,
+      9648
+    ],
+    "original_name": "Moon Knight",
+    "origin_country": [
+      "US"
+    ],
+    "poster_path": "/x6FsYvt33846IQnDSFxla9j0RX8.jpg",
+    "first_air_date": "2022-03-30",
+    "vote_average": 8.5,
+    "vote_count": 502,
+    "overview": "When Steven Grant, a mild-mannered gift-shop employee, becomes plagued with blackouts and memories of another life, he discovers he has dissociative identity disorder and shares a body with mercenary Marc Spector. As Steven/Marc’s enemies converge upon them, they must navigate their complex identities while thrust into a deadly mystery among the powerful gods of Egypt.",
+    "name": "Moon Knight",
+    "original_language": "en",
+    "original_id": 92749,
+    "popularity": 5483.522,
+    "media_type": "tv"
+  },
+  {
+    "genre_ids": [
+      28,
+      53,
+      80
+    ],
+    "original_language": "en",
+    "original_title": "Ambulance",
+    "poster_path": "/zT5ynZ0UR6HFfWQSRf2uKtqCyWD.jpg",
+    "original_id": 763285,
+    "video": false,
+    "vote_average": 6.8,
+    "overview": "Decorated veteran Will Sharp, desperate for money to cover his wife's medical bills, asks for help from his adoptive brother Danny. A charismatic career criminal, Danny instead offers him a score: the biggest bank heist in Los Angeles history: $32 million.",
+    "release_date": "2022-03-16",
+    "title": "Ambulance",
+    "vote_count": 398,
+    "adult": false,
+    "backdrop_path": "/192vHmAPbk5esL34XMKZ1YLGFjr.jpg",
+    "popularity": 1619.597,
+    "media_type": "movie"
+  },
+  {
+    "original_title": "Doctor Strange in the Multiverse of Madness",
+    "poster_path": "/9Gtg2DzBhmYamXBS1hKAhiwbBKS.jpg",
+    "video": false,
+    "original_id": 453395,
+    "overview": "Doctor Strange, with the help of mystical allies both old and new, traverses the mind-bending and dangerous alternate realities of the Multiverse to confront a mysterious new adversary.",
+    "release_date": "2022-05-04",
+    "vote_count": 22,
+    "adult": false,
+    "backdrop_path": "/ndCSoasjIZAMMDIuMxuGnNWu4DU.jpg",
+    "vote_average": 7,
+    "genre_ids": [
+      14,
+      28,
+      12
+    ],
+    "title": "Doctor Strange in the Multiverse of Madness",
+    "original_language": "en",
+    "popularity": 967.115,
+    "media_type": "movie"
+  },
+  {
+    "vote_average": 8.7,
+    "original_name": "Halo",
+    "origin_country": [
+      "US"
+    ],
+    "first_air_date": "2022-03-24",
+    "original_id": 52814,
+    "backdrop_path": "/1qpUk27LVI9UoTS7S0EixUBj5aR.jpg",
+    "vote_count": 540,
+    "genre_ids": [
+      10759,
+      10765
+    ],
+    "name": "Halo",
+    "original_language": "en",
+    "overview": "Depicting an epic 26th-century conflict between humanity and an alien threat known as the Covenant, the series weaves deeply drawn personal stories with action, adventure and a richly imagined vision of the future.",
+    "poster_path": "/nJUHX3XL1jMkk8honUZnUmudFb9.jpg",
+    "popularity": 4890.243,
+    "media_type": "tv"
+  },
+  {
+    "original_title": "Sonic the Hedgehog 2",
+    "poster_path": "/6DrHO1jr3qVrViUO6s6kFiAGM7.jpg",
+    "video": false,
+    "original_id": 675353,
+    "overview": "After settling in Green Hills, Sonic is eager to prove he has what it takes to be a true hero. His test comes when Dr. Robotnik returns, this time with a new partner, Knuckles, in search for an emerald that has the power to destroy civilizations. Sonic teams up with his own sidekick, Tails, and together they embark on a globe-trotting journey to find the emerald before it falls into the wrong hands.",
+    "release_date": "2022-03-30",
+    "vote_count": 786,
+    "adult": false,
+    "backdrop_path": "/egoyMDLqCxzjnSrWOz50uLlJWmD.jpg",
+    "vote_average": 7.6,
+    "genre_ids": [
+      28,
+      878,
+      35,
+      10751
+    ],
+    "title": "Sonic the Hedgehog 2",
+    "original_language": "en",
+    "popularity": 4056.245,
+    "media_type": "movie"
+  },
+  {
+    "original_id": 406759,
+    "video": false,
+    "vote_average": 6.5,
+    "overview": "A mysterious force knocks the moon from its orbit around Earth and sends it hurtling on a collision course with life as we know it.",
+    "release_date": "2022-02-03",
+    "title": "Moonfall",
+    "adult": false,
+    "backdrop_path": "/x747ZvF0CcYYTTpPRCoUrxA2cYy.jpg",
+    "vote_count": 865,
+    "genre_ids": [
+      28,
+      12,
+      878
+    ],
+    "poster_path": "/odVv1sqVs0KxBXiA8bhIBlPgalx.jpg",
+    "original_language": "en",
+    "original_title": "Moonfall",
+    "popularity": 2291.114,
+    "media_type": "movie"
+  },
+  {
+    "poster_path": "/7qop80YfuO0BwJa1uXk1DXUUEwv.jpg",
+    "video": false,
+    "vote_average": 7.3,
+    "overview": "When the infamous Bad Guys are finally caught after years of countless heists and being the world’s most-wanted villains, Mr. Wolf brokers a deal to save them all from prison.",
+    "release_date": "2022-03-17",
+    "vote_count": 139,
+    "adult": false,
+    "backdrop_path": "/fEe5fe82qHzjO4yej0o79etqsWV.jpg",
+    "title": "The Bad Guys",
+    "genre_ids": [
+      16,
+      35,
+      28,
+      10751,
+      80
+    ],
+    "original_id": 629542,
+    "original_language": "en",
+    "original_title": "The Bad Guys",
+    "popularity": 813.826,
+    "media_type": "movie"
+  },
+  {
+    "genre_ids": [
+      14,
+      12
+    ],
+    "original_language": "en",
+    "original_title": "Fantastic Beasts: The Secrets of Dumbledore",
+    "poster_path": "/jrgifaYeUtTnaH7NF5Drkgjg2MB.jpg",
+    "video": false,
+    "vote_average": 6.8,
+    "vote_count": 829,
+    "overview": "Professor Albus Dumbledore knows the powerful, dark wizard Gellert Grindelwald is moving to seize control of the wizarding world. Unable to stop him alone, he entrusts magizoologist Newt Scamander to lead an intrepid team of wizards and witches. They soon encounter an array of old and new beasts as they clash with Grindelwald's growing legion of followers.",
+    "release_date": "2022-04-06",
+    "title": "Fantastic Beasts: The Secrets of Dumbledore",
+    "original_id": 338953,
+    "adult": false,
+    "backdrop_path": "/wdjdHBDwmynWUrJcNzS24uegvK5.jpg",
+    "popularity": 1026.105,
+    "media_type": "movie"
+  },
+  {
+    "video": false,
+    "vote_average": 6.5,
+    "overview": "Belgian sleuth Hercule Poirot boards a glamorous river steamer with enough champagne to fill the Nile. But his Egyptian vacation turns into a thrilling search for a murderer when a picture-perfect couple’s idyllic honeymoon is tragically cut short.",
+    "original_id": 505026,
+    "title": "Death on the Nile",
+    "adult": false,
+    "backdrop_path": "/lRbDyjI7HEaXxflFQbYpqHRGFBJ.jpg",
+    "genre_ids": [
+      80,
+      18,
+      9648,
+      53
+    ],
+    "vote_count": 1534,
+    "original_language": "en",
+    "original_title": "Death on the Nile",
+    "poster_path": "/kVr5zIAFSPRQ57Y1zE7KzmhzdMQ.jpg",
+    "release_date": "2022-02-09",
+    "popularity": 404.488,
+    "media_type": "movie"
+  },
+  {
+    "overview": "A woman falls victim to a dominant mafia boss, who imprisons her and gives her one year to fall in love with him.",
+    "release_date": "2020-02-07",
+    "original_id": 664413,
+    "adult": false,
+    "backdrop_path": "/isBjNHBblzxrzHrAtRbjgkYzAut.jpg",
+    "genre_ids": [
+      10749,
+      18
+    ],
+    "vote_count": 6762,
+    "original_language": "pl",
+    "original_title": "365 dni",
+    "poster_path": "/6KwrHucIE3CvNT7kTm2MAlZ4fYF.jpg",
+    "title": "365 Days",
+    "video": false,
+    "vote_average": 7,
+    "popularity": 217.863,
+    "media_type": "movie"
+  },
+  {
+    "original_title": "Turning Red",
+    "poster_path": "/qsdjk9oAKSQMWs0Vt5Pyfh6O4GZ.jpg",
+    "video": false,
+    "original_id": 508947,
+    "overview": "Thirteen-year-old Mei is experiencing the awkwardness of being a teenager with a twist – when she gets too excited, she transforms into a giant red panda.",
+    "release_date": "2022-03-10",
+    "vote_count": 1980,
+    "adult": false,
+    "backdrop_path": "/fOy2Jurz9k6RnJnMUMRDAgBwru2.jpg",
+    "vote_average": 7.4,
+    "genre_ids": [
+      16,
+      10751,
+      35,
+      14
+    ],
+    "title": "Turning Red",
+    "original_language": "en",
+    "popularity": 3513.967,
+    "media_type": "movie"
+  },
+  {
+    "first_air_date": "2015-02-08",
+    "vote_average": 8.5,
+    "name": "Better Call Saul",
+    "original_id": 60059,
+    "vote_count": 2683,
+    "backdrop_path": "/hPea3Qy5Gd6z4kJLUruBbwAH8Rm.jpg",
+    "poster_path": "/fC2HDm5t0kHl7mTm7jxMR31b7by.jpg",
+    "genre_ids": [
+      35,
+      80,
+      18
+    ],
+    "overview": "Six years before Saul Goodman meets Walter White. We meet him when the man who will become Saul Goodman is known as Jimmy McGill, a small-time lawyer searching for his destiny, and, more immediately, hustling to make ends meet. Working alongside, and, often, against Jimmy, is “fixer” Mike Ehrmantraut. The series tracks Jimmy’s transformation into Saul Goodman, the man who puts “criminal” in “criminal lawyer\".",
+    "original_language": "en",
+    "original_name": "Better Call Saul",
+    "origin_country": [
+      "US"
+    ],
+    "popularity": 352.349,
+    "media_type": "tv"
+  },
+  {
+    "video": false,
+    "vote_average": 6.9,
+    "overview": "In 1979, a group of young filmmakers set out to make an adult film in rural Texas, but when their reclusive, elderly hosts catch them in the act, the cast find themselves fighting for their lives.",
+    "release_date": "2022-03-17",
+    "adult": false,
+    "backdrop_path": "/tGVKZ1zunNDk6ztEBXgtFWPxpaX.jpg",
+    "vote_count": 286,
+    "genre_ids": [
+      27,
+      53
+    ],
+    "title": "X",
+    "original_language": "en",
+    "original_title": "X",
+    "poster_path": "/woTQx9Q4b8aO13jR9dsj8C9JESy.jpg",
+    "original_id": 760104,
+    "popularity": 114.466,
+    "media_type": "movie"
+  },
+  {
+    "overview": "After a failed sabotage mission, a trio of anti-apartheid freedom fighters ends up in a tense bank hostage situation. Based on a true story.",
+    "release_date": "2022-04-27",
+    "original_id": 951470,
+    "adult": false,
+    "backdrop_path": "/xzLOQjF1w4og963lxsGJwMhPbZ.jpg",
+    "genre_ids": [
+      28,
+      80,
+      18
+    ],
+    "vote_count": 26,
+    "original_language": "en",
+    "original_title": "Silverton Siege",
+    "poster_path": "/5HruMN0vvl84AqD7sCDXFNO4RhP.jpg",
+    "title": "Silverton Siege",
+    "video": false,
+    "vote_average": 6.7,
+    "popularity": 200.516,
+    "media_type": "movie"
+  },
+  {
+    "backdrop_path": "/gD830J0sf5gEeZvzkRVPdGxJmSR.jpg",
+    "first_air_date": "2017-07-21",
+    "genre_ids": [
+      80,
+      18
+    ],
+    "original_id": 69740,
+    "name": "Ozark",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "Ozark",
+    "overview": "A financial adviser drags his family from Chicago to the Missouri Ozarks, where he must launder $500 million in five years to appease a drug boss.",
+    "poster_path": "/m73bD8VjibSKuTWg597GQVyVhSb.jpg",
+    "vote_average": 8.2,
+    "vote_count": 1377,
+    "popularity": 364.469,
+    "media_type": "tv"
+  },
+  {
+    "backdrop_path": "/jT2Fyj1nzscW8yOR3DdtEJ08NTH.jpg",
+    "genre_ids": [
+      18,
+      10751
+    ],
+    "original_language": "en",
+    "first_air_date": "2022-04-22",
+    "poster_path": "/wJJt1HG62h3WoGnLcRIbO2nNNkg.jpg",
+    "name": "Heartstopper",
+    "vote_average": 8.8,
+    "overview": "Charlie, a highly strung, openly gay over-thinker, and Nick, a cheerful soft-hearted rugby player, meet at a British all-boys grammar school. Friendship blooms quickly, but could there be something more...? Based on Alice Oseman's bestselling graphic novel series HEARTSTOPPER.",
+    "vote_count": 98,
+    "original_id": 124834,
+    "origin_country": [
+      "GB"
+    ],
+    "original_name": "Heartstopper",
+    "popularity": 1290.273,
+    "media_type": "tv"
+  }
+]
