@@ -1,0 +1,385 @@
+[
+  {
+    "adult": false,
+    "backdrop_path": "/An1nKjXahrChfEbZ3MAE8fsiut1.jpg",
+    "genre_ids": [
+      27
+    ],
+    "original_id": 661791,
+    "original_language": "es",
+    "original_title": "La abuela",
+    "overview": "A Paris model must return to Madrid where her grandmother, who raised her, has had a stroke. But spending just a few days with this relative turns into an unexpected nightmare.",
+    "popularity": 1248.638,
+    "poster_path": "/eIUixNvox4U4foL5Z9KbN9HXYSM.jpg",
+    "release_date": "2022-01-28",
+    "title": "The Grandmother",
+    "video": false,
+    "vote_average": 6.1,
+    "vote_count": 141
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/i0zbSmiyyylh7H3Qb4jgscz46Pm.jpg",
+    "genre_ids": [
+      27
+    ],
+    "original_id": 893370,
+    "original_language": "es",
+    "original_title": "Virus-32",
+    "overview": "A virus is unleashed and a chilling massacre runs through the streets of Montevideo.",
+    "popularity": 1954.425,
+    "poster_path": "/wZiF79hbhLK1U2Pj9bF67NAKXQR.jpg",
+    "release_date": "2022-04-21",
+    "title": "Virus:32",
+    "video": false,
+    "vote_average": 6.9,
+    "vote_count": 26
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/33wnBK5NxvuKQv0Cxo3wMv0eR7F.jpg",
+    "genre_ids": [
+      27,
+      53
+    ],
+    "original_id": 833425,
+    "original_language": "en",
+    "original_title": "No Exit",
+    "overview": "Stranded at a rest stop in the mountains during a blizzard, a recovering addict discovers a kidnapped child hidden in a car belonging to one of the people inside the building which sets her on a terrifying struggle to identify who among them is the kidnapper.",
+    "popularity": 1206.748,
+    "poster_path": "/5cnLoWq9o5tuLe1Zq4BTX4LwZ2B.jpg",
+    "release_date": "2022-02-25",
+    "title": "No Exit",
+    "video": false,
+    "vote_average": 6.7,
+    "vote_count": 409
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/u5lEdCvKLkm1EhfQt3qe8Rr5DvR.jpg",
+    "genre_ids": [
+      27
+    ],
+    "original_id": 938596,
+    "original_language": "en",
+    "original_title": "Bull Shark",
+    "overview": "A hungry shark begins feeding on unsuspecting lake goers in a small Texas town.",
+    "popularity": 1001.797,
+    "poster_path": "/wGE4ImqYjJZQi3xFu4I2OLm8m0w.jpg",
+    "release_date": "2022-02-05",
+    "title": "Bull Shark",
+    "video": false,
+    "vote_average": 5.3,
+    "vote_count": 16
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/xHRabofjmMGoIV3mb6xgy4nwOcS.jpg",
+    "genre_ids": [
+      27
+    ],
+    "original_id": 801071,
+    "original_language": "en",
+    "original_title": "The Jack in the Box: Awakening",
+    "overview": "When a vintage Jack-in-the-box is opened by a dying woman, she enters into a deal with the demon within that would see her illness cured in return for helping it claim six innocent victims.",
+    "popularity": 760.256,
+    "poster_path": "/3Ib8vlWTrAKRrTWUrTrZPOMW4jp.jpg",
+    "release_date": "2022-02-24",
+    "title": "The Jack in the Box: Awakening",
+    "video": false,
+    "vote_average": 6.1,
+    "vote_count": 38
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/o76ZDm8PS9791XiuieNB93UZcRV.jpg",
+    "genre_ids": [
+      27,
+      28,
+      878
+    ],
+    "original_id": 460458,
+    "original_language": "en",
+    "original_title": "Resident Evil: Welcome to Raccoon City",
+    "overview": "Once the booming home of pharmaceutical giant Umbrella Corporation, Raccoon City is now a dying Midwestern town. The company’s exodus left the city a wasteland…with great evil brewing below the surface. When that evil is unleashed, the townspeople are forever…changed…and a small group of survivors must work together to uncover the truth behind Umbrella and make it through the night.",
+    "popularity": 709.34,
+    "poster_path": "/7uRbWOXxpWDMtnsd2PF3clu65jc.jpg",
+    "release_date": "2021-11-24",
+    "title": "Resident Evil: Welcome to Raccoon City",
+    "video": false,
+    "vote_average": 6.2,
+    "vote_count": 1507
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/ifUfE79O1raUwbaQRIB7XnFz5ZC.jpg",
+    "genre_ids": [
+      27,
+      9648,
+      53
+    ],
+    "original_id": 646385,
+    "original_language": "en",
+    "original_title": "Scream",
+    "overview": "Twenty-five years after a streak of brutal murders shocked the quiet town of Woodsboro, a new killer has donned the Ghostface mask and begins targeting a group of teenagers to resurrect secrets from the town’s deadly past.",
+    "popularity": 652.899,
+    "poster_path": "/1m3W6cpgwuIyjtg5nSnPx7yFkXW.jpg",
+    "release_date": "2022-01-12",
+    "title": "Scream",
+    "video": false,
+    "vote_average": 6.8,
+    "vote_count": 1234
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/aTSA5zMWlVFTYBIZxTCMbLkfOtb.jpg",
+    "genre_ids": [
+      27,
+      53
+    ],
+    "original_id": 632727,
+    "original_language": "en",
+    "original_title": "Texas Chainsaw Massacre",
+    "overview": "In this sequel, influencers looking to breathe new life into a Texas ghost town encounter Leatherface, an infamous killer who wears a mask of human skin.",
+    "popularity": 549.925,
+    "poster_path": "/meRIRfADEGVo65xgPO6eZvJ0CRG.jpg",
+    "release_date": "2022-02-18",
+    "title": "Texas Chainsaw Massacre",
+    "video": false,
+    "vote_average": 5.1,
+    "vote_count": 725
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/hk4PwhKhT7q7jp1lvA8aiYqDluy.jpg",
+    "genre_ids": [
+      16,
+      18,
+      35,
+      27
+    ],
+    "original_id": 926899,
+    "original_language": "en",
+    "original_title": "The House",
+    "overview": "Across different eras, a poor family, an anxious developer and a fed-up landlady become tied to the same mysterious house in this animated dark comedy.",
+    "popularity": 502.83,
+    "poster_path": "/iZjMFSKCrleKolC1gYcz5Rs8bk1.jpg",
+    "release_date": "2022-01-14",
+    "title": "The House",
+    "video": false,
+    "vote_average": 7,
+    "vote_count": 565
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/5UANdP8xXHyVOGknfJlzQ7muLj3.jpg",
+    "genre_ids": [
+      27
+    ],
+    "original_id": 829358,
+    "original_language": "en",
+    "original_title": "Queen of Spades",
+    "overview": "According to legend, an ominous entity known as the Queen of Spades can be summoned by performing an ancient ritual. Four teenagers summon the Queen of Spades, but they could never imagine the horrors that await them.",
+    "popularity": 420.91,
+    "poster_path": "/4IKBzVBPLXu9p5cfEfdJjHdlafV.jpg",
+    "release_date": "2021-06-11",
+    "title": "Queen of Spades",
+    "video": false,
+    "vote_average": 6.4,
+    "vote_count": 50
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/1Xrsu5g27B07H1YysaNNnFb5nxl.jpg",
+    "genre_ids": [
+      53,
+      27
+    ],
+    "original_id": 842052,
+    "original_language": "es",
+    "original_title": "Ecos de un crimen",
+    "overview": "Julián Lemar, a best-selling suspense writer, goes on vacation with his family to a cabin in the woods. During a strong storm, the power goes out and a woman shows up desperately asking for help: her husband killed her son and now he wants to kill her. From that moment on, danger and deception are a constant threat and for Julián a hellish night begins until he discovers the truth.",
+    "popularity": 417.574,
+    "poster_path": "/6b0cvhxUtzgOZitexarQTLTHDCU.jpg",
+    "release_date": "2022-01-27",
+    "title": "Echoes of a Crime",
+    "video": false,
+    "vote_average": 7.2,
+    "vote_count": 17
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/q2KFBGyUSzHDhNqXEYv2LqTWVSz.jpg",
+    "genre_ids": [
+      27
+    ],
+    "original_id": 870671,
+    "original_language": "en",
+    "original_title": "The Hunting",
+    "overview": "When a mysterious animal attack leaves a mutilated body in the forest, a conservative small town detective must enlist the help of an eager wildlife specialist to uncover the dark and disturbing truth that threatens the town.",
+    "popularity": 400.826,
+    "poster_path": "/kvhrltQIRp1u84ao9uj52YPaWNY.jpg",
+    "release_date": "2022-01-21",
+    "title": "The Hunting",
+    "video": false,
+    "vote_average": 4.9,
+    "vote_count": 20
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/Aqp47Dbz8f1wnVU1qKvFFXQFROr.jpg",
+    "genre_ids": [
+      53,
+      27
+    ],
+    "original_id": 811072,
+    "original_language": "es",
+    "original_title": "Dos",
+    "overview": "Two people, a man and a woman, wake up naked and with their abdomens attached to each other.",
+    "popularity": 336.058,
+    "poster_path": "/5P7QwmoYl70tsRZ8e0VnI9RI1MF.jpg",
+    "release_date": "2021-07-23",
+    "title": "Two",
+    "video": false,
+    "vote_average": 5.5,
+    "vote_count": 235
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/9fzNf2QcsHVvdx5g5QUOgAWpADw.jpg",
+    "genre_ids": [
+      18,
+      27,
+      9648
+    ],
+    "original_id": 516329,
+    "original_language": "en",
+    "original_title": "Antlers",
+    "overview": "A small-town Oregon teacher and her brother, the local sheriff, discover a young student is harbouring a dangerous secret that could have frightening consequences.",
+    "popularity": 340.154,
+    "poster_path": "/cMch3tiexw3FdOEeZxMWVel61Xg.jpg",
+    "release_date": "2021-10-28",
+    "title": "Antlers",
+    "video": false,
+    "vote_average": 6.4,
+    "vote_count": 643
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/39EQTf94Lckdo8yzS1CdWQSgmen.jpg",
+    "genre_ids": [
+      27,
+      9648,
+      53
+    ],
+    "original_id": 609972,
+    "original_language": "en",
+    "original_title": "Paranormal Activity: Next of Kin",
+    "overview": "Margot, a documentary filmmaker, heads to a secluded Amish community in the hopes of learning about her long-lost mother and extended family. Following a string of strange occurrences and discoveries, she comes to realize this community may not be what it seems.",
+    "popularity": 316.464,
+    "poster_path": "/bXAVveHiLotZbWdg3PKGhAzxYKP.jpg",
+    "release_date": "2021-10-29",
+    "title": "Paranormal Activity: Next of Kin",
+    "video": false,
+    "vote_average": 6.5,
+    "vote_count": 350
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/o2OSpKzXuB1edCDyVC2MXAxXwyJ.jpg",
+    "genre_ids": [
+      10749,
+      27,
+      53
+    ],
+    "original_id": 633802,
+    "original_language": "ru",
+    "original_title": "Приворот. Чёрное венчание",
+    "overview": "Terror strikes when a heartbroken woman uses black magic to get her husband back.",
+    "popularity": 306.866,
+    "poster_path": "/2AbGdSGlU6CpiV3lswHUgE5CdAA.jpg",
+    "release_date": "2021-02-11",
+    "title": "Dark Spell",
+    "video": false,
+    "vote_average": 6.7,
+    "vote_count": 93
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/qi6Edc1OPcyENecGtz8TF0DUr9e.jpg",
+    "genre_ids": [
+      27,
+      9648,
+      53
+    ],
+    "original_id": 423108,
+    "original_language": "en",
+    "original_title": "The Conjuring: The Devil Made Me Do It",
+    "overview": "Paranormal investigators Ed and Lorraine Warren encounter what would become one of the most sensational cases from their files. The fight for the soul of a young boy takes them beyond anything they'd ever seen before, to mark the first time in U.S. history that a murder suspect would claim demonic possession as a defense.",
+    "popularity": 287.904,
+    "poster_path": "/xbSuFiJbbBWCkyCCKIMfuDCA4yV.jpg",
+    "release_date": "2021-05-25",
+    "title": "The Conjuring: The Devil Made Me Do It",
+    "video": false,
+    "vote_average": 7.6,
+    "vote_count": 4380
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/vkojfC1xykW9XBCyDDCMYeHqLEf.jpg",
+    "genre_ids": [
+      27,
+      18
+    ],
+    "original_id": 775943,
+    "original_language": "es",
+    "original_title": "Llanto Maldito",
+    "overview": "Sara and Óscar, a couple going through a marital crisis, decide to spend a week in a remote country cabin with their two children, Alicia and Tomás. The family tries to have a quiet time, but something strange happens there. There is a woman who prowls through the forest and cries uncontrollably looking for a baby she has just lost. This deeply affects the family who will have to stay together to survive this nightmare.",
+    "popularity": 273.853,
+    "poster_path": "/iwlmZKndp7fIfHbxVzQtk9zby3A.jpg",
+    "release_date": "2021-07-29",
+    "title": "Tarumama",
+    "video": false,
+    "vote_average": 4.8,
+    "vote_count": 22
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/qOnLuCJDFhRzbWzhpA4aoK75vfY.jpg",
+    "genre_ids": [
+      27,
+      878,
+      18,
+      53
+    ],
+    "original_id": 523936,
+    "original_language": "fr",
+    "original_title": "Méandre",
+    "overview": "After getting a car ride from an unknown man, Lisa wakes up in a tube. On her arm is strapped a bracelet with a countdown. She quickly understands that every 8 minutes, fire burns an occupied section. She has no choice but to crawl into safe sections to survive. To know why she’s there and how to get out, Lisa will have to face the memories of her dead daughter…",
+    "popularity": 294.595,
+    "poster_path": "/2OTIAx8AmwGCaXmq5ohQCyPUjdC.jpg",
+    "release_date": "2021-05-26",
+    "title": "Meander",
+    "video": false,
+    "vote_average": 6.1,
+    "vote_count": 245
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/fdiLgQqfFFITMGET31CPdPsfhIW.jpg",
+    "genre_ids": [
+      27
+    ],
+    "original_id": 836225,
+    "original_language": "en",
+    "original_title": "The Exorcism of God",
+    "overview": "An American priest working in Mexico is considered a saint by many local parishioners. However, due to a botched exorcism, he carries a secret that’s eating him alive until he gets an opportunity to face his demon one final time.",
+    "popularity": 273.804,
+    "poster_path": "/hangTmbxpSV4gpHG7MgSlCWSSFa.jpg",
+    "release_date": "2022-02-10",
+    "title": "The Exorcism of God",
+    "video": false,
+    "vote_average": 6.7,
+    "vote_count": 84
+  }
+]

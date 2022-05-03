@@ -4,7 +4,7 @@ import { MongoConfig } from '../interfaces/config.interface';
 const mongoConfig: MongoConfig = {
   name: 'mongodb',
   connector: 'mongodb',
-  url: env('MONGO_URL', 'mongodb://localhost:27017/loopback'),
+  url: env('MONGO_URL', 'mongodb://localhost:27017/nextflix-api'),
   host: env('MONGO_HOST', 'localhost'),
   port: env('MONGO_PORT', 27017),
   user: env('MONGO_USER', ''),
