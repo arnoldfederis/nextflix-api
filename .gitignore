@@ -64,3 +64,5 @@ typings/
 *.tsbuildinfo
 
 .vscode
+
+.DS_Store
